@@ -1,4 +1,16 @@
-This is just a fixed error with defaultProps to work without warnings, untill the original version pull the new updates
+__________________________
+
+This is just a fork from the Original React Native Modern Date picker, with some bug fixes and customization
+
+# Fix 
+• a fixed error with defaultProps to work without warnings, untill the original version pull the new updates
+
+# Customizations
+• if is last day of the month, automatically toggle to the next month
+
+__________________________
+
+Head Doc from the original package:
 
 # React Native Modern Datepicker 📆
 
